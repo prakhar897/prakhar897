@@ -5,7 +5,7 @@ A Full Stack Developer who focuses on building and deploying web apps.
 ## Find me around the web 🌎:
 
 - 🌱 Writing what I do @ [prakgupta.com](https://www.prakgupta.com/) / [softwaredesign.ing](https://www.softwaredesign.ing/) / [leetcod.ing](https://www.leetcod.ing/)
-- 🔭 Sharing Updates and Interacting with community on [LinkedIn](https://linkedin.com/in/prakhar897)
+- 🔭 Some Hobby Projects [Tubesearch](https://tubesearch.vercel.app/) / [Resurrect.ing](https://www.resurrect.ing/) / [Li-Quoridor](https://li-quoridor.vercel.app/) / [ColdMessageAI](https://coldmessageai.vercel.app/)
 - 🤔 Helping on [StackOverflow](https://stackoverflow.com/users/7293918/p-gupta)
 - 📫 How to reach me: prakhar897@gmail.com
 
